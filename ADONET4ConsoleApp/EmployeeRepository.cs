@@ -5,7 +5,7 @@ namespace ADONET4ConsoleApp
 {
     public class EmployeeRepository
     {
-        readonly string connectionString = "Data Source=127.0.0.1;Initial Catalog=EMP;UID=root;Password=Jayram007@;Integrated Security=True";
+        readonly string connectionString = "Data Source=127.0.0.1;Initial Catalog=EMP;UID=root;Password=ABC@;Integrated Security=True";
 
         public void CreateEmployee()
         {
